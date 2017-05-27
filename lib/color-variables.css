@@ -1,0 +1,11 @@
+/* @define color-variables */
+
+:root {
+  
+  
+  /* Pure Black */
+  --color-black: hsla(0, 0%, 0%, 1);
+
+  /* Pure White */
+  --color-white: hsla(0, 100%, 100%, 1);
+}
